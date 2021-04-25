@@ -1,10 +1,10 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using MongoDB.Driver;
-using Services.Catalago.Catalago.Api.Data;
-using Services.Catalago.Catalago.Api.Models;
+using Services.Catalogo.Catalogo.Api.Data;
+using Services.Catalogo.Catalogo.Api.Models;
 
-namespace Services.Catalago.Catalago.Api.Repositories
+namespace Services.Catalogo.Catalogo.Api.Repositories
 {
     public class ProdutoRepository : IProdutoRepository
     {

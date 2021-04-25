@@ -7,9 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{52C099BB-A4F
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{FC8A073B-7E9D-4896-9BB4-A5CA0AF2F980}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalago", "Catalago", "{CB95A4C9-0F94-4C6D-8557-C38AF4FAAB1D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalogo", "Catalogo", "{CB95A4C9-0F94-4C6D-8557-C38AF4FAAB1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalago.Api", "src\Services\Catalago\Catalago.Api\Catalago.Api.csproj", "{A6F8F069-43B8-4A91-BA09-F633CDDF457E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalogo.Api", "src\Services\Catalogo\Catalogo.Api\Catalogo.Api.csproj", "{A6F8F069-43B8-4A91-BA09-F633CDDF457E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

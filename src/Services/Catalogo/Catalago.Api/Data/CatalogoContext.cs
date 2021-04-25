@@ -1,8 +1,8 @@
 using Microsoft.Extensions.Configuration;
 using MongoDB.Driver;
-using Services.Catalago.Catalago.Api.Models;
+using Services.Catalogo.Catalogo.Api.Models;
 
-namespace Services.Catalago.Catalago.Api.Data
+namespace Services.Catalogo.Catalogo.Api.Data
 {
     public class CatalogoContext : ICatalogoContext
     {

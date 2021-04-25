@@ -4,10 +4,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
-using Services.Catalago.Catalago.Api.Data;
-using Services.Catalago.Catalago.Api.Repositories;
+using Services.Catalogo.Catalogo.Api.Data;
+using Services.Catalogo.Catalogo.Api.Repositories;
 
-namespace Catalago.Api
+namespace Catalogo.Api
 {
     public class Startup
     {

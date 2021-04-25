@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Services.Catalago.Catalago.Api.Models;
-using Services.Catalago.Catalago.Api.Repositories;
+using Services.Catalogo.Catalogo.Api.Models;
+using Services.Catalogo.Catalogo.Api.Repositories;
 
-namespace Services.Catalago.Catalago.Api.Controllers
+namespace Services.Catalogo.Catalogo.Api.Controllers
 {
     [ApiController]
     [Route("api/v1/[controller]")]

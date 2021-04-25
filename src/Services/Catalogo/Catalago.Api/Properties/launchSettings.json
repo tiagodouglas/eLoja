@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Catalago.Api": {
+    "Catalogo.Api": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",
